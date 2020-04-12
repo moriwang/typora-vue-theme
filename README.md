@@ -1,34 +1,18 @@
-# typora-vue-theme
+# typora-yuque-theme
 
-[![HitCount](http://hits.dwyl.io/blinkfox/typora-vue-theme.svg)](http://hits.dwyl.io/blinkfox/typora-vue-theme) [![GitHub issues](https://img.shields.io/github/issues/blinkfox/typora-vue-theme.svg)](https://github.com/blinkfox/typora-vue-theme/issues) [![GitHub license](https://img.shields.io/github/license/blinkfox/typora-vue-theme.svg)](https://github.com/blinkfox/typora-vue-theme/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/blinkfox/typora-vue-theme.svg)](https://github.com/blinkfox/typora-vue-theme/network) [![GitHub stars](https://img.shields.io/github/stars/blinkfox/typora-vue-theme.svg)](https://github.com/blinkfox/typora-vue-theme/stargazers)
+## 简介
 
-[中文](README_CN.md)
+[Typora](https://www.typora.io/) 是一款支持实时预览的 Markdown 编辑器和阅读器，支持`Windows`、`macOS`、`Linux`三大平台。Typora 作为一款合格的 Markdown 编辑器，支持图片、列表、表格、代码、公式、目录等功能，同时这款软件还支持（一键）动态预览功能，让一切都变得如此干净、纯粹。并且有多种主题模板。本主题是在 **[typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)** 的基础上，进行了部分的微调，参考了[语雀编辑器](https://www.yuque.com/)的部分配色。
 
-> This is a typora theme inspired by [Vue](http://vuejs.org/) document style.
+## 安装主题
 
-## Introduction
+1. 下载本主题中的`yuque.css`文件和包含字体的`yuque`文件夹；
+2. 打开 Typora，点击“**偏好设置**” => “**打开主题文件夹**”按钮，将弹出 Typora 的主题文件夹；
+3. 将下载好的`yuque.css`文件和包含字体的`yuque`文件夹放到 Typora 的主题文件夹中；
+4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**Yuque**” 即可。
 
-[Typora](https://www.typora.io/) is a markdown editor and reader that supports real-time preview. It supports `Windows`, `macOS`, `Linux` platforms. Typora is a qualified Markdown editor that supports images, lists, tables, codes, formulas, catalogs, etc. At the same time, typora also supports (one-click) dynamic preview function, so that everything becomes so clean and pure. And there are various theme templates. **[typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) inspired by [Vue](https://vuejs.org/) document style**.
-
-## Install
-
-1. [Download](https://codeload.github.com/blinkfox/typora-vue-theme/zip/master) this theme from Github, then you can get the `vue.css`, `vue-dark.css` files and the `vue` folder.
-2. Open typora. Click "**Open Theme Folder**" button from `Preference Panel` → `Apperance` section.
-3. Put `vue.css`, `vue-dark.css` and `vue` folder into the opened folder, make sure your css files are directly under that directory.
-4. Close and reopen Typora and select `Theme` → `Vue` or `Vue Dark` from the menu bar.
-
-## Screenshots
-
-![Screenshot 1](http://static.blinkfox.com/typora_vue_theme_screen_01.png)
-
-![Screenshot 2](http://static.blinkfox.com/typora_vue_theme_screen_02.png)
-
-![Screenshot 3](http://static.blinkfox.com/typora_vue_theme_screen_03.png)
-
-### Vue Dark
-
-![Screenshot 4](https://github.com/MamoruDS/typora-vue-theme/raw/master/screenshots/screenshot_01.png)
-
-![Screenshot 5](https://github.com/MamoruDS/typora-vue-theme/raw/master/screenshots/screenshot_02.png)
-
-> **Thanks**: This `vue-dark.css` by [typora-vue-dark-theme](https://github.com/MamoruDS/typora-vue-dark-theme).
+## 对原主题的修改
+* 不再保留 dark 主题
+* 删除 h2 下的分隔线
+* 修改 blockquote 的配色
+* 修改 a 标签的配色
