@@ -18,4 +18,4 @@
 * 修改 a 标签的配色
 
 ## 预览
-![y5OZLJ](https://cdn.jsdelivr.net/gh/osssh/oss@master/img/2020/04/12/y5OZLJ.png)
+![YWNjGW](https://cdn.jsdelivr.net/gh/osssh/oss@master/img/2020/04/12/YWNjGW.png)
